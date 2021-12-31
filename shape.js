@@ -5,7 +5,7 @@ export class Shape{
      }
      calculateArea(){
      }
-     color(){
-     this.color=red;
-     }
+   
+
+
 }
