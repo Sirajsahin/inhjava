@@ -1,12 +1,12 @@
 
 
-export class Shape {
+module.exports  class Shape {
 
      drawShape(){
      }
      calculateArea(){
      }
-   this.color=red;
+   Shape.color=red;
 
 
 }
