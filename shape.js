@@ -1,6 +1,7 @@
 
 
-export class Shape{
+export class Shape {
+     this.color=red;
      drawShape(){
      }
      calculateArea(){
