@@ -1,12 +1,16 @@
 
 
-export  class Shape {
-
-     drawShape(){
+// declare class
+class Shape {
+     constructor() {
+          this.color = "green";
      }
-     calculateArea(){
+     drawShape() {
+
      }
-   Shape.color=red;
+     calculateArea() {
 
-
+     }
 }
+// export class using module.exports
+module.exports = Shape;
