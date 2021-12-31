@@ -1,6 +1,6 @@
 
 
-module.exports  class Shape {
+export  class Shape {
 
      drawShape(){
      }
